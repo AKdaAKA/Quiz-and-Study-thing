@@ -2,7 +2,7 @@
 
 A powerful, minimalist full-stack application that leverages **Gemini 2.5 Flash-Lite** and **LangChain** to automatically generate high-quality multiple-choice quizzes from PDF documents or raw text notes.
 
-![Feature Highlights](https://img.shields.io/badge/Model-Gemini%203.1%20Flash--Lite-blue)
+![Feature Highlights](https://img.shields.io/badge/Model-Gemini%202.5%20Flash--Lite-blue)
 ![Tech Stack](https://img.shields.io/badge/Stack-React%20%7C%20Express%20%7C%20LangChain-green)
 
 ---
@@ -95,4 +95,4 @@ Distributed under the ISC License.
 
 ---
 
-*Built with ❤️ using Google Gemini 3.1*
+*Built with ❤️ using Google Gemini 2.5*
